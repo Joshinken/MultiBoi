@@ -1,6 +1,6 @@
 # MultiBoi
 
-<img width="990" height="729" alt="image" src="https://github.com/user-attachments/assets/f06a8935-8504-4f35-9762-3ed6004ddcc](https://github.com/chasefournier/MultiBoi/blob/main/Screenshot%202026-02-02%20131530.png" />
+<img width="990" height="729" alt="image" src="Screenshot 2026-02-02 131530.png" />
 
 
 The MultiBoi is an Open Sourced Multi functional Board for multiple different game consoles. I'ts purpose is geared towards being a repair tool.
