@@ -23,6 +23,9 @@ For example, you need UART? Program UART bridge .uf2
 *** specific to Wii U & Pico flasher ***
 Flip all switches to ON for Wii U and OFF for Xbox 360 
 
+***** WARNING : USB 2.0 PORT MUST BE SOLDERED
+***+* ON THE BOTTOM OF THE BOARD !!!!
+
 PARTS: 
 Dip Switches: https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/418117270904/3174489
 USB 2.0 Port: https://www.digikey.com/en/products/detail/cvilux-usa/CU01SAH0S00/13177442
